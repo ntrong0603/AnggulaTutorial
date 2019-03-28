@@ -1,1 +1,1 @@
-module.exports = CAT();
+module.exports = CAT;
